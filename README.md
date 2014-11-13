@@ -17,7 +17,7 @@ Time to change was launched by <a href="http://www.mind.org.uk/"><img alt="" cla
 
 ### please remain seated...
 
-![WeAreThePlaymakers](https://raw.githubusercontent.com/weAreThePlayMakers/_assets/master/png/img/wATPMLogoBannerRed.png) are solely responsible for the conception, initial briefs, choice of technologies and eventual development of the app. Having said that we will do our best to emulate the ethos as well as the tone of the original campaign. To this end we chose to use informative quotes from the official website of the campaign instead of using standard Lorem ipsum to fill our empty at first frames. Similarly we decided to use graphical assets provided by the Mind on their page for the first few cycles of the development.
+<a href="https://github.com/weAreThePlayMakers"> <img alt="logo weAreThePlayMakers" class="media-image image-style-none"  src="https://raw.githubusercontent.com/weAreThePlayMakers/_assets/master/png/img/wATPMLogoBannerRed.png"></a> are solely responsible for the conception, initial briefs, choice of technologies and eventual development of the app. Having said that we will do our best to emulate the ethos as well as the tone of the original campaign. To this end we chose to use informative quotes from the official website of the campaign instead of using standard Lorem ipsum to fill our empty at first frames. Similarly we decided to use graphical assets provided by the Mind on their page for the first few cycles of the development.
 
 ---
 
