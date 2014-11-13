@@ -9,7 +9,7 @@ If you are not that much interested in credits and how the idea came to being th
 
 And this slogan from [time to change](http://www.time-to-change.org.uk/) was the initial inspiration for us to write initial brief and sketch out main functionalities of the app.
 
-![Time to Change](http://www.time-to-change.org.uk/sites/default/files/whocarousel2.png)
+![http://www.time-to-change.org.uk/](http://www.time-to-change.org.uk/sites/default/files/whocarousel2.png)
 
 Time to change was launched by ![the Mind](http://www.time-to-change.org.uk/sites/default/files/mind_logo_0_0.png) and ![Rethink Mental Illness](http://www.time-to-change.org.uk/sites/default/files/rethink_logo_1_1.png) and #time2talk is not an official project within Time to Change campaign nor should it be confused with ![#timetotalk](http://www.time-to-change.org.uk/sites/default/files/timetotalk_tattoo.jpg) campaign. 
 
