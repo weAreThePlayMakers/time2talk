@@ -35,6 +35,8 @@ Initially the idea was for us to go and help others with their products but Time
 
 And now we are really getting to the bottom of all this fuss, the tech. 
 
+---
+
 ### ... [polymer-project](https://www.polymer-project.org/)
 
 So finally we can talk tech and by all accounts the app is weAreThePlaymakers attempt to break into fascinating world of shadow-dom and <a class="logo" href="http://webcomponents.org"><img src="http://webcomponents.org/img/logo.svg" alt="WebComponents.org" width="60" height="39"></a> riding of Google's awesome <a href="/" class="logo" layout="" horizontal=""><img src="https://www.polymer-project.org/images/logos/lockup.svg"></a> and using its material design guidelines. It isn't our first take on this new area of web dev but we certainly intend to see this one to its final stages, soc med chanels and community engagement included unlike all our previous adventures with polymer library [weAreTheNoteTakers](https://github.com/weAreThePlayMakers/wearethenotetakers) being a good example.
@@ -43,7 +45,9 @@ So finally we can talk tech and by all accounts the app is weAreThePlaymakers at
 
 ### do you feel like getting involved?
 
-If you are up for helping out with any of the aspects of planned development and/or maintenance and prep of corollary services shoot us an email and we will hook you up on whatever necessery.
+If you are up for helping out with any aspect of planned development and/or maintenance and prep of all that goes beyond potential "launch" shoot us an email and we will hook you up wherever or simply fork, clone, hack away.
+
+---
 
 
 
