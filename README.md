@@ -9,15 +9,15 @@ If you are not that much interested in credits and how the idea came to being th
 
 And this slogan from [time to change](http://www.time-to-change.org.uk/) was the initial inspiration for us to write initial brief and sketch out main functionalities of the app.
 
-![http://www.time-to-change.org.uk/](http://www.time-to-change.org.uk/sites/default/files/whocarousel2.png)
+<a href="http://www.time-to-change.org.uk" title="" target="_self" rel="" class=""><img class="image-style-none" src="http://www.time-to-change.org.uk/sites/default/files/whocarousel2.png" width="714" height="370" alt="" draggable="true"></a>
 
-Time to change was launched by ![the Mind](http://www.time-to-change.org.uk/sites/default/files/mind_logo_0_0.png) and ![Rethink Mental Illness](http://www.time-to-change.org.uk/sites/default/files/rethink_logo_1_1.png) and #time2talk is not an official project within Time to Change campaign nor should it be confused with ![#timetotalk](http://www.time-to-change.org.uk/sites/default/files/timetotalk_tattoo.jpg) campaign. 
+Time to change was launched by <a href="http://www.mind.org.uk/"><img alt="" class="media-image image-style-none" height="70" width="135" src="http://www.time-to-change.org.uk/sites/default/files/mind_logo_0.png"></a>  and <a href="https://www.rethink.org/"><img alt="" class="media-image image-style-none" height="70" width="79" src="http://www.time-to-change.org.uk/sites/default/files/rethink_logo_1_1.png"></a> and #time2talk is not an official project within Time to Change campaign nor should it be confused with ![#timetotalk](http://www.time-to-change.org.uk/sites/default/files/timetotalk_tattoo.jpg) campaign. 
 
 ---
 
 ### please remain seated...
 
-![WeAreThePlaymakers](https://raw.githubusercontent.com/weAreThePlayMakers/_assets/master/png/img/wATPMLogoRed.png) are solely responsible for the conception, initial briefs, choice of technologies and eventual development of the app. Having said that we will do our best to emulate the ethos as well as the tone of the original campaign. To this end we chose to use informative quotes from the official website of the campaign instead of using standard Lorem ipsum to fill our empty at first frames. Similarly we decided to use graphical assets provided by the Mind on their page for the first few cycles of the development.
+![WeAreThePlaymakers](https://raw.githubusercontent.com/weAreThePlayMakers/_assets/master/png/img/wATPMLogoBannerRed.png) are solely responsible for the conception, initial briefs, choice of technologies and eventual development of the app. Having said that we will do our best to emulate the ethos as well as the tone of the original campaign. To this end we chose to use informative quotes from the official website of the campaign instead of using standard Lorem ipsum to fill our empty at first frames. Similarly we decided to use graphical assets provided by the Mind on their page for the first few cycles of the development.
 
 ---
 
@@ -27,17 +27,17 @@ As already mentioned the app in its entirety is an hypothesis based on our own a
 
 ---
 
-### transformed_by...
+### [transformed_by...](http://transformedbyyou.com/)
 
-The whole of the above would not be enough for the app to jump over everything else on our priority list if it wasn't for ![Transformed by You](http://transformedbyyou.com/media/tby-logo-new.png) an event organised by friendly folks at ![Kent Connects](http://transformedbyyou.com/media/k-connects.jpg) about which you might read [on their own page](http://transformedbyyou.com/).
+The whole of the above would not be enough for the app to jump over everything else on our priority list if it wasn't for <a title="Embrace Your Space" href="http://transformedbyyou.com/" class="custom-header-image fl"><img src="http://transformedbyyou.com/media/tby-logo-new.png"></a> an event organised by friendly folks at <a href="http://www.kentconnects.gov.uk/home" class="visible-desktop kconhead fr"><img src="http://transformedbyyou.com/media/k-connects.jpg"></a> about which you might read [on their own page](http://transformedbyyou.com/).
 
 Initially the idea was for us to go and help others with their products but Time to Change seemed like a cause worth the time and efforts and it would be awesome to see it tested on humans.
 
 And now we are really getting to the bottom of all this fuss, the tech. 
 
-### ... polymer-project
+### ... [polymer-project](https://www.polymer-project.org/)
 
-So finally we can talk tech and by all accounts the app is weAreThePlaymakers attempt to break into fascinating world of shadow-dom and ![web components](http://webcomponents.org/img/logo.svg) riding of Google's awesome ![polymer library](https://www.polymer-project.org/images/logos/lockup.svg) and using its material design guidelines. It isn't our first take on this new area of web dev but we certainly intend to see this one to its final stages, soc med chanels and community engagement included unlike all our previous adventures with polymer library [weAreTheNoteTakers](https://github.com/weAreThePlayMakers/wearethenotetakers) being a good example.
+So finally we can talk tech and by all accounts the app is weAreThePlaymakers attempt to break into fascinating world of shadow-dom and <a class="logo" href="http://webcomponents.org"><img src="http://webcomponents.org/img/logo.svg" alt="WebComponents.org" width="60" height="39"></a> riding of Google's awesome <a href="/" class="logo" layout="" horizontal=""><img src="https://www.polymer-project.org/images/logos/lockup.svg"></a> and using its material design guidelines. It isn't our first take on this new area of web dev but we certainly intend to see this one to its final stages, soc med chanels and community engagement included unlike all our previous adventures with polymer library [weAreTheNoteTakers](https://github.com/weAreThePlayMakers/wearethenotetakers) being a good example.
 
 ---
 
