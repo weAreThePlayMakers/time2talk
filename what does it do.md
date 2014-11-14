@@ -19,7 +19,7 @@ In most general terms this will involve taking one of the three actions:
 
 The last of the three doesn't require any more attention, the user logs off and all the processes are being shut down. See you next time!
 
-The remaining two options I will brake down into more detail just to give a feel how the basic use of the app would look like - there are plans on doing some work in regards to graphics which will make dumping these assets into Muse, Edge Animate or GWD all too easy and which inevitably will result in a working prototype but in the meantime below description should suffice. 
+The remaining two options I will break down into more detail just to give a feel how the basic use of the app would look like - there are plans on doing some work in regards to graphics which will make dumping these assets into Muse, Edge Animate or GWD all too easy and which inevitably will result in a working prototype but in the meantime below description should suffice. 
 
 So the workflow/customer journey will follow one of the two scenarios:
 
@@ -45,7 +45,7 @@ In the second scenario user opens the app and toggles the status from `unavailab
 
 Responding to `request2talk` will involve meeting with someone from their local community for a chat, walk in the park or anything else that might be helpful and was agreed upon prior to the meeting. There always will be some travel involved to specified in the request `meeting place` but presumably the distances will be small and the places will be rather familiar to users. 
 
-The primary target users are people suffering from depression or other mental health condition and who might not have anyone to talk to and who could use some friendly and positive talk about the wether or anything really. the app could be made available as part of Mind's current #timetotalk campaign.
+The primary target users are people suffering from depression or other mental health conditions and who might not have anyone to talk to and who could use some friendly and positive talk about the weather or anything really. the app could be made available as part of Mind's current #timetotalk campaign.
 
 
 > written by [rafszul](https://github.com/rafszul) and [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/).
