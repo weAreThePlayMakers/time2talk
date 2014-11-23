@@ -1,7 +1,6 @@
 #time2talk
 
-
-time2talk is a mobile web app supporting individuals suffering from depression and other mental health conditions in finding within their local communities supportive partners to friendly and heartwarming conversations.
+is a mobile web app aimed at supporting people with mental health problems by helping to organise short meetings with supportive members of their local communities for a friendly a chat, a walk in the park or even short football session ...
 
 !["When we got together we didn't talk about the illness, we did normal regular things."](http://www.time-to-change.org.uk/sites/default/files/imce_uploads/TTC_TTTDay_Tim%26Matt_FBCover_Individual.png)
 
