@@ -2,7 +2,7 @@
 
 is a mobile web app aimed at supporting people with mental health problems by helping to organise short meetings with supportive members of their local communities for a friendly a chat, a walk in the park or even short football session ...
 
-At the moment you might hack our ... markdown, seriously [![Hack weAreThePlayMakers/time2talk on Nitrous](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-s-v1-0616054bfad452919522f1d08ad1fddf.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=weAreThePlayMakers%2Ftime2talk&file_to_open=README.md)
+At the moment you might hack our ... markdown, seriously -->  [![Hack weAreThePlayMakers/time2talk on Nitrous](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-s-v1-0616054bfad452919522f1d08ad1fddf.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=weAreThePlayMakers%2Ftime2talk&file_to_open=README.md)
 
 !["When we got together we didn't talk about the illness, we did normal regular things."](http://www.time-to-change.org.uk/sites/default/files/imce_uploads/TTC_TTTDay_Tim%26Matt_FBCover_Individual.png)
 
@@ -67,6 +67,8 @@ So finally we can talk tech and by all accounts the app is weAreThePlaymakers at
 ### do you feel like getting involved?
 
 If you are up for helping out with any aspect of planned development and/or maintenance and prep of all that goes beyond potential "launch" shoot us an email and we will hook you up wherever or simply fork, clone, hack away.
+
+[![Hack weAreThePlayMakers/time2talk on Nitrous](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-s-v1-0616054bfad452919522f1d08ad1fddf.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=weAreThePlayMakers%2Ftime2talk&file_to_open=README.md)
 
 ---
 
